@@ -2,8 +2,8 @@
 
 An Instagram information tool that allows you to retrieve details about a user using Instaloader.
 
-![terminal1](image1.png)
-![terminal2](image2.png)
+![terminal1](image21.png)
+![terminal2](image1.png)
 
 ## Table of Contents
 - [Description](#description)
